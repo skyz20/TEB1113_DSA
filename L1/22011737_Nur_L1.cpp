@@ -1,6 +1,8 @@
 /*
-ID = 22011737
-Name = Nur Aina Nabila
+ID : 22011737
+Name : Nur Aina Nabila
+Group : G1
+Lab: Lab 1
 */
 
 #include <iostream>
@@ -24,7 +26,7 @@ int main() {
         cout << "Enter contact: "; cin >> student[i].contact;
     }
     
-    cout << "-------------------\n";
+    cout << "\n-------------------";
     cout << "\nStudent Database:\n";
     cout << "-------------------\n";
 
@@ -34,7 +36,7 @@ int main() {
         cout << "\nName: " << student[i].name;
         cout << "\nEmail: " << student[i].email;
         cout << "\nContant: " << student[i].contact;
-        cout << "-------------------\n";
+        cout << "\n-------------------\n";
     }
 
 }
