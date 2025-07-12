@@ -1,7 +1,7 @@
 /*
 ID : 22011737
 Name : Nur Aina Nabila
-Group : G1
+Group : G3
 Lab: Lab 2 (Easy) - Rotate Square Matrix by 90 Degrees Counterclockwise
 Problem: https://www.geeksforgeeks.org/dsa/rotate-matrix-elements/
 */

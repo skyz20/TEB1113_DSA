@@ -1,7 +1,7 @@
 /*
 ID : 22011737
 Name : Nur Aina Nabila
-Group : G1
+Group : G3
 Lab: Lab 2 (Hard) - Find a specific pair in Matrix
 Problem: https://www.geeksforgeeks.org/dsa/find-a-specific-pair-in-matrix/
 */

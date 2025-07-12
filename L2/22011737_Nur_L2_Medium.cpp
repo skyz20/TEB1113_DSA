@@ -1,7 +1,7 @@
 /*
 ID : 22011737
 Name : Nur Aina Nabila
-Group : G1
+Group : G3
 Lab: Lab 2 (Medium) - Rotate Matrix Clockwise by 1
 Problem: https://www.geeksforgeeks.org/dsa/inplace-rotate-square-matrix-by-90-degrees/
 */
