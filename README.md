@@ -35,12 +35,7 @@ This repository contains my lab tasks and group project for the **TEB1113 Algori
 
 ## 🧋 Group Project: Bobarista
 
-Bobarista is a **Qt-based GUI application** that simulates drink order queue processing using both array-based and linked list-based implementations. It visualizes the performance difference using real-time charts powered by Qt Charts.
-
-🔧 **Key Features**:
-- Real-time enqueue/dequeue operations
-- Dynamic chart updates
-- Friendly GUI with stacked widgets and theme support
+Bobarista is a **Qt-based GUI application** that simulates a bubble tea ordering system using queue data structures. It supports array-based and linked list-based queues to handle key operations like enqueue (insertion) and dequeue (deletion). The app lets users see how different data structure implementations affect the flow and performance of managing customer orders in real time.
 
 📁 [View Project Source](./Project/Bobarista)
 
