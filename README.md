@@ -42,7 +42,7 @@ Bobarista is a **Qt-based GUI application** that simulates drink order queue pro
 - Dynamic chart updates
 - Friendly GUI with stacked widgets and theme support
 
-📁 [View Project Source](./Project)
+📁 [View Project Source](./Project/Bobarista)
 
 ---
 
