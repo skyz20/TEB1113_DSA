@@ -4,7 +4,7 @@
 ![Course](https://img.shields.io/badge/course-TEB1113-orange)
 ![License](https://img.shields.io/badge/status-Student%20Project-green)
 
-This repository contains my lab tasks and final project for the **TEB1113 Algorithm & Data Structure** course. The work includes C++ implementations of core concepts such as arrays, stacks, queues, recursion, trees, and a GUI-based performance benchmarking tool using Qt.
+This repository contains my lab tasks and group project for the **TEB1113 Algorithm & Data Structure** course. The work includes C++ implementations of core concepts such as arrays, linked lists, stacks, queues, trees,graph traversals and a a Qt-based GUI benchmarking tool.
 
 ---
 
