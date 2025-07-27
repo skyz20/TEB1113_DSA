@@ -23,6 +23,7 @@ int main() {
         cout << "\nStudent #" << i + 1;
         cout << "\nEnter ID: "; cin >> student[i].id;
         cout << "Enter name: "; cin >> student[i].name;
+        cout << "Enter email: "; cin >> student[i].email;
         cout << "Enter contact: "; cin >> student[i].contact;
     }
     
